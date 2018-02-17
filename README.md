@@ -7,12 +7,13 @@ center wheel, two rear wheels). Each rear wheel has a dedicated DC motor used to
 each wheel independently. Both DC motors are connected to a PWM motor driver unit that
 controls the RPM of each motor independently based on a 2 PWM signals.
 
-Microcontroller Requirements: This project requires 2 microcontrollers.
-Microcontroller 1: Atmel328P : This microcontroller will interface the PWM motor
+This project requires 2 microcontrollers:
+
+Microcontroller 1 Atmel328P - This microcontroller will interface the PWM motor
 drivers on the vehicle and a wireless module to communicate to the other embedded
 microcontroller. The Wireless module used is the Nordic NRF24L01+ module (SPI). This microprocessor is powered by a 4 bank AA battery pack that plugs directly into the microcontroller Vin.
 
-Microcontroller 2: Atmel328P : This microcontroller will interface the sensor/s used to
+Microcontroller 2 Atmel328P - This microcontroller will interface the sensor/s used to
 wirelessly instruct the vehicle. It may be powered by a 9V battery or any other suitable power
 supply. The same wireless module (NRF24L01+) is interfaced by this microcontroller to
 communicate wirelessly to the vehicle. Any number of sensors may be used, however, only
