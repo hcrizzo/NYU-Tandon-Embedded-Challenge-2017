@@ -1,5 +1,5 @@
 # NYU-Tandon-Embedded-Challenge-2017
-This project involves designing a controller to motivate a small vehicle through a meandering track without exiting track boundaries.Control of the vehicle is accomplished
+This project involves designing a controller to motivate a small vehicle through a meandering track without exiting track boundaries. Control of the vehicle is accomplished
 remotely and exclusively by hand/arm gestures.
 
 Vehicle Details: The vehicle consists of an aluminum chassis with three wheels (one front
