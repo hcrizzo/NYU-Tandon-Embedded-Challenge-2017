@@ -1,4 +1,6 @@
 # NYU-Tandon-Embedded-Challenge-2017
+Henrique Rizzo, Niha Habul, Omonefe Etietie, Kunaal Patade
+
 This project involves designing a controller to motivate a small vehicle through a meandering track without exiting track boundaries. Control of the vehicle is accomplished
 remotely and exclusively by hand/arm gestures.
 
